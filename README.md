@@ -1,5 +1,5 @@
 # dojo-blog
-This is the simple blogging application written in React
+This is the simple blogging application written in React. It will let you to perform CRUD operation on blogs
 
 The application is built using following features
 1. hooks - useState, useContext, useEffect
@@ -9,4 +9,4 @@ The application is built using following features
 5. Error boundary
 6. Skeleton
 7. Breadcrumbs
-8. Json server 
+8. Json server to watch the json files 
